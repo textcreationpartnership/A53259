@@ -1,0 +1,307 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last sermon and sayings of that most pious and reverend divine, Mr. John Oakes, minister of the gospel in the City of London who was struck with death in his pulpit, in the afternoon after he had preached this sermon; to the admiration of all his hearers. A subject of great account, worthy to be written in letters of gold. Being a thanksgiving sermon, for God's great goodness in delivering this nation from popery, slavery, and destruction, by that eminent instrument of God's glory, King William King of England. Discoursed of from these words, Notwithstanding in this rejoice not, that the spirits are subject unto you, but rather rejoice because your names are written in heaven. Luk. 10. 20. And having preached upon the first part of the text in the forenoon, of God's great deliverance of this kingdom from popery, &amp;c. and coming to treat more fully in the afternoon, what it is to have our names written in heaven, God took him to himself, and gave him a full enjoyment thereof. With a brief sum of his funeral sermon preached the next Sunday after, by the reverend divine Mr. Williams. To which is added two Godly </title>
+            <author>Oakes, John, d. 1689?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53259</idno>
+            <idno type="STC">Wing O19A</idno>
+            <idno type="STC">ESTC R218540</idno>
+            <idno type="EEBO-CITATION">99830122</idno>
+            <idno type="PROQUEST">99830122</idno>
+            <idno type="VID">34572</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53259)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34572)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1872:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last sermon and sayings of that most pious and reverend divine, Mr. John Oakes, minister of the gospel in the City of London who was struck with death in his pulpit, in the afternoon after he had preached this sermon; to the admiration of all his hearers. A subject of great account, worthy to be written in letters of gold. Being a thanksgiving sermon, for God's great goodness in delivering this nation from popery, slavery, and destruction, by that eminent instrument of God's glory, King William King of England. Discoursed of from these words, Notwithstanding in this rejoice not, that the spirits are subject unto you, but rather rejoice because your names are written in heaven. Luk. 10. 20. And having preached upon the first part of the text in the forenoon, of God's great deliverance of this kingdom from popery, &amp;c. and coming to treat more fully in the afternoon, what it is to have our names written in heaven, God took him to himself, and gave him a full enjoyment thereof. With a brief sum of his funeral sermon preached the next Sunday after, by the reverend divine Mr. Williams. To which is added two Godly </title>
+                  <author>Oakes, John, d. 1689?</author>
+               </titleStmt>
+               <extent>22, [2]   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Conyers in Holbourn,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Christ Church Library, Oxford.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Oakes, John, d. 1689? --  Early works to 1800.</term>
+               <term>Funeral sermons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34572:1"/>
+            <pb facs="tcp:34572:1"/>
+            <p>The Laſt Sermon and Sayings Of that moſt Pious and Reverend Divine, Mr. <hi>John Oakes,</hi> Miniſter of the Goſpel in the City of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> who was ſtruck with Death in his Pulpit, in the Afternoon after he had preached this Sermon; to the admiration of all his Hearers. A Subject of great Account, worthy to be Written in Letters of Gold.</p>
+            <p>Being a Thankſgiving Sermon, for God's great Goodneſs in delivering this Nation from <hi>Popery, Slavery,</hi> and <hi>Deſtruction,</hi> by that Eminent Inſtrument of God's Glory, King <hi>William</hi> King of <hi>England.</hi>
+            </p>
+            <p>Diſcourſed of from theſe words,</p>
+            <q>Notwithstanding in this rejoice not, that the Spirits are ſubject unto you, but rather re<g ref="char:EOLhyphen"/>joice becauſe your Names are written in Heaven.
+<bibl>Luk. 10. 20.</bibl>
+            </q>
+            <p>And having preached upon the firſt part of the Text in the Forenoon, of <hi>God</hi>'s great delive<g ref="char:EOLhyphen"/>rance of this Kingdom from <hi>Popery,</hi> &amp;c. and com<g ref="char:EOLhyphen"/>ing to treat more fully in the Afternoon, <hi>What it is to have our Names written in Heaven,</hi> God took him to himſelf, and gave him a full Enjoyment thereof.</p>
+            <p>With a brief ſum of his Funeral Sermon preached the next <hi>Sunday</hi> after, by the Reverend Divine Mr. <hi>Williams.</hi>
+            </p>
+            <p>To which is added two Godly prayers.</p>
+            <p>Printed for <hi>J. Conyers</hi> in <hi>Holbourn.</hi> 1689.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:34572:2"/>
+            <pb n="3" facs="tcp:34572:2"/>
+            <head>
+               <hi>M<hi rend="sup">R.</hi> Oakes</hi> His Laſt Sermon, &amp;c.</head>
+            <epigraph>
+               <bibl>Luk. 10. 20.</bibl>
+               <q>Notwithſtanding in this rejoice not, that the ſpi<g ref="char:EOLhyphen"/>rits are ſubject unto you, but rather Rejoice be<g ref="char:EOLhyphen"/>cauſe your Names are written in Heaven.</q>
+            </epigraph>
+            <p>THis Text read unto you, may at the firſt view ſeem to be like Rain in the Harveſt, or Snow in Summer, very unſeaſonable, and may ſeem to contradict the loud Calls of the preſent Pro<g ref="char:EOLhyphen"/>vidence, which God's Providence at this day ſeems to call on us for, when we are called to <hi>Rejoice,</hi> for that ſignal Mercy and unparallel'd Deliverance which God hath wrought for us and this poor Nation at this time when God hath in ſo ſhort a time, and by ſuch unlooked for means and by ſuch an unexpe<g ref="char:EOLhyphen"/>cted way ſo ſuddenly altered the Scene of our Af<g ref="char:EOLhyphen"/>fairs; when God hath broken the Snare the Wic<g ref="char:EOLhyphen"/>ked had prepared for us, and ſuffered them to be taken by the works of their own hands, and found out a way for the accompliſhing of ſuch a Deliv<g ref="char:EOLhyphen"/>rance
+<pb n="4" facs="tcp:34572:3"/>
+as this is, which you will every day be more and more convinced of.</p>
+            <p>Surely the Lord calls for People at this day to rejoice, and yet my Text ſéems to put a check on this rejoicing.</p>
+            <p>Rejoice not in this, that the Lord hath thus deli<g ref="char:EOLhyphen"/>vered us; Why? The various Circumſtances as attends this marvellous Deliverance calls for Joy a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d Singing of Praiſes unto the Lord: <hi>Pſal. 126. 1, 2. When the Lord turned again the captivity of</hi> Zion, <hi>we were like them that dream.</hi> So ſudden<g ref="char:EOLhyphen"/>ly, and by ſuch unexpected means, God turned about the Captivity of England, and turned away from us that bondage we were like to be in; <hi>we were like them that dream.</hi> And what were the Conſe<g ref="char:EOLhyphen"/>quences of <hi>Ziors</hi> great Deliverance? <hi>Then was our mouth filled with laughter, and our tongue with ſinging; then ſaid they among the Heather, the Lord hath done great things for them.</hi> The very wicked Atheiſts may take notice of this, and may ſay, the Lord is God, and he hath done great things for us, and ſhall not we ſay ſo? the Lord hath done great things for us, whereof we are glad, and have reaſon to be ſo This is that God calls for, <hi>But let the righteous be glad; let them rejoice before God; yea, let them exceedingly rejoice: ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng unto God, ſing praiſes to his Name, Pſal. 68. 3, 4</hi>
+            </p>
+            <p>And this is that which the generality of Prote<g ref="char:EOLhyphen"/>ſtants are diſpoſed for; now you cannot but expect
+<pb n="5" facs="tcp:34572:3"/>
+every one you meet withal will have a ſmile in his or her face, except it be in the face of a Papiſt, who have cauſe for ſorrow: But whence is it God's People have cauſe to rejoice? It is a neceſſary du<g ref="char:EOLhyphen"/>ty to rejoice; <hi>praiſe is comely for the Saints;</hi> when God delivers <hi>Zion,</hi> we ſhould rejoice and be glad; yet ſays my Text, <hi>Rejoice not.</hi> Now how ſhall we reconcile theſe ſéeming contradictions, to put our hearts into a right frame? we muſt look into the Context, and ſee how theſe words are brought in, and what is the drift of them.</p>
+            <p>In the foregoing Chapter, you find our Saviour giveth commiſſion unto his Apoſtles, to go forth and work Miracles, and to preach the Goſpel; and to encourage them, he promiſes to protect them and to give them ſucceſs in it: And in this Chapter <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſends forth other ſeventy, and they go forth, and af<g ref="char:EOLhyphen"/>terwards they return to their Maſter, to give him an account of their ſucceſs, ay <hi>in the 17th.</hi> verſe, <hi>And the ſeventy returned again with joy, and ſaid, Lord, even the Devils are ſubject unto us through thy name.</hi> They returned to their Maſter with joy.</p>
+            <p>By the way let me tell you, We are Ambaſſadors ſent forth by our Lord and Maſter Chriſt, and in a little time we know not how ſoon we muſt return unto our Maſter, and give an account unto our Lord and Maſter, of our ſucceſs, what it hath been.</p>
+            <p>And Sirs, by the Call of God, I have been among you nigh Ten years; What ſucceſs ſhall I give ac<g ref="char:EOLhyphen"/>count of unto my Maſter, as to you? what account
+<pb n="6" facs="tcp:34572:4"/>
+ſhall I give of you to my Lord and Maſter at my re<g ref="char:EOLhyphen"/>turn? ſhall my return be with joy? or ſhall I ſay to my Lord and Maſter, Lord, I went and ſtretched forth my hand to a gain-ſaying people, they would not be prevailed with, they would not hear, they would not hearken: This would be a ſad account as to you.</p>
+            <p>Well, but theſe Apoſtles return with joy, and had good ſucceſs, and amongſt the reſt, they tell their Maſter, that the very Devils were ſubject unto them: whereever Goſpel-Miniſters are ſent forth, the De<g ref="char:EOLhyphen"/>vil raiſes all the force he can; if poſſible, he will raiſe all the power of Hell, that if he can help it, one Sinner ſhall not be gained to Chriſt. <hi>The Devils are ſubject unto us.</hi> This was the power the De<g ref="char:EOLhyphen"/>vils then had; it was to torment the members of the body, but now it is very rare the Devils power is lengthened out ſo far; if he had power to tor<g ref="char:EOLhyphen"/>ment our bodies, he would make ſad havock of mens bodies, but bleſſed be God, all the power of Devils is limitted, they are chained up now, they cannot go no further than God permits them: But then, it was a common trade for Devils to poſſeſs mens bo<g ref="char:EOLhyphen"/>dies, and to to: ment them.</p>
+            <p>The Proverb is, <hi>he will play at any Game;</hi> Now for wiſe ends God permitted the Devil to have ſuch encurſions upon mens bodies, ſo he had upon <hi>Job</hi>'s body, he filled it with Diſeaſes, noiſome Di<g ref="char:EOLhyphen"/>ſeaſes, to try <hi>Job,</hi> but his aim is to poſſeſs the heart moſtly, there he doth the greateſt miſchief:
+<pb n="7" facs="tcp:34572:4"/>
+but now God lets not looſe the Devil on mens bo<g ref="char:EOLhyphen"/>dies; O dreadful and ſad would it be if God ſhould let go the Devil to poſſeſs peoples bodies, he then would make them mad; and it would be a ſad judg<g ref="char:EOLhyphen"/>ment of God, but ſadder it is for the Devil to poſſeſs the heart, as he doth of thouſands, even of all who are in an unregenerate eſtate, the devils dwells in their hearts, there he rules and reigns, yet people, through their folly, are not ſenſible of it.</p>
+            <p>I do not quote this Text as an inſtance to quench or put a ſtop unto thoſe joys or rejoicings in God, on the account of that moſt aſtoniſhing Deliverance which God lately hath begun to work upon us; no, but to rectifie our joys and rejoicings,</p>
+            <p>We are not to reſt in Rejoicing in our Delive<g ref="char:EOLhyphen"/>rance from our dangers, without we are now deli<g ref="char:EOLhyphen"/>vered from dangers within; but alas, Sirs, let me tell you, for us to be preſerved from our dangers without, and not to be preſerved from our dangers within, it all ſignifies nothing, all our temporal deliverances will ſignifie nothing.</p>
+            <p>From this prohibition I note,</p>
+            <div type="part">
+               <head>Doct. <hi>That the beſt of Gods people are liable un<g ref="char:EOLhyphen"/>to Irregularity in their Actings of their Af<g ref="char:EOLhyphen"/>fections.</hi>
+               </head>
+               <p>Theſe Diſciples were ſo, our Saviour checks them here for it, and ſo are we too much prone to be irregular in the acting of our Affections: The Affections are the wings of the Soul, by which
+<pb n="8" facs="tcp:34572:5"/>
+they do carry a kind of vehemency and readineſs to the Objects ſet before them, as they are diſtinct, Lode, Delight, Ioy, on one hand; Hatred, Fear, Sorrow on the other hand; Theſe God has planted in the Vnderſtanding enlightened, and in the Will rectified; ſo that theſe conſidered aright, are of great uſe to us. Theſe were rectified but when Man became depraved in his Affections, and roſe up in Rebellion againſt God himſelf: Theſe Affections became ruſtick and rude, and in rebellion againſt God, until God brought the faculties of the Soul into due order again.</p>
+               <p>Man in his imperfection, thoſe Affections, as un<g ref="char:EOLhyphen"/>ſanctified, doth a World of miſchief, but when right<g ref="char:EOLhyphen"/>ly conſidered, they are of great uſe whilſt unfanctifi<g ref="char:EOLhyphen"/>ed, they are ſet on wrong Objects; as for inſtance: Mans Love being corrupted and depraved, his Love is liable to be ſet on ſuch things as he ſhould rather loath than deſire: Chriſt is lovely, yea, altogether lovely; yet ſuch is the corruption of man's Nature, that ſée not any form or comelineſs in Chriſt.</p>
+               <p>Thoſe Objects that are ſet before us and offered to us, as moſt deſirable and delightful in themſelves. the corruption of mans Nature is ſuch, that that which it ſhould love it loaths; it calls Evil Good, and Good Evil: Thus is mans Nature, till it is re<g ref="char:EOLhyphen"/>newed, and when it is renewed, we have not ſuch Affections for Chriſt as we ſhould have. Alas, that diſeaſe of man's Affections is not fully cured. So, for worldly deſires, they are in many ſo immoderate,
+<pb n="9" facs="tcp:34572:5"/>
+their Affections for the World are ſo immoderate, that they ſet their hearts on the world, they make a God of it; many will not have Idols in their Hou<g ref="char:EOLhyphen"/>ſes, oh! but they will ſet up an Idol in their Hearts, they do not think of ſpiritual Idolatry, Covetouſ<g ref="char:EOLhyphen"/>neſs is Idolatry, which is ſet up in their Hearts</p>
+               <p>
+                  <hi>Solomon</hi> directs us <hi>in the day of proſperity to be joyful,</hi> &amp;c. <hi>Eccl. 7. 14.</hi> 'Tis true, the very dawning of the day of our temporal proſperity, is great ground for our Rejoicing, if our joy be ma<g ref="char:EOLhyphen"/>nag'd aright: In the day of proſperity be joyful, but in the day of adverſity conſider, God alſo hath ſet the one againſt the other, to the end that man ſhould and nothing after him; but there is a Generation who are not concern'd either the one way or the other for adverſity or proſperity. God in a way of Iudg<g ref="char:EOLhyphen"/>ment hath threatned to ruine us of this Nation, and that deſervedly enough, God knows, but now God in a ſtupendious way hath turned the Scene of his Providence, and ſmiled on this Nation, He now ſmiles on <hi>England,</hi> that hath not deſerved it, God knoweth.</p>
+               <p>But whether God ſmiles or frowns, it is all one with ſome, they are not concerned, they care not ſo they may thrive in their Enterprizes, they care not how it goeth with the Church of God.</p>
+               <p>But this is a ſinful life indeed to live thus.</p>
+               <p>Now, Sirs, how is it with you? you are not it may be concerned at this great turn of Providence in Gods ſo wonderful Delivering us, notwithſtand<g ref="char:EOLhyphen"/>ing
+<pb n="10" facs="tcp:34572:6"/>
+our provocations of him. How is it with you? Did you take notice what God did this laſt week paſt, we were in fear we ſhould have been deſtroyed, and our Enemies deſign<note place="margin">The Prince of <hi>Orange</hi>'s Arrival at St. <hi>Jame</hi>'s.</note> was, that we ſhould be cut off, but God ſent a Deliverer to this Nation, though unexpected. Notwithſtanding what God now hath done for <hi>En<g ref="char:EOLhyphen"/>gland,</hi> for <hi>London</hi> juſt ſinking, and for the Prote<g ref="char:EOLhyphen"/>ſtant Intereſt, that was even gaſping for life, bleed<g ref="char:EOLhyphen"/>ing, yet ſome do not Rejoice in God for theſe tempo<g ref="char:EOLhyphen"/>ral Deliverances, and on the account of theſe tempo<g ref="char:EOLhyphen"/>ral Immunities, which are again reſtored, and in reſpect of thoſe Cockatrice-Eggs, which ſhall all be removed.</p>
+               <p>Certainly now the Heathen will ſay there is a God; I muſt tell you, there hath been a great deal of Atheiſm amongſt us, but now ſure the Atheiſt will own there is a God, for none but God could bring about ſuch a miraculous work.</p>
+            </div>
+            <div type="part">
+               <head>Vſe. <hi>If theſe outward Deliverances be ſancti<g ref="char:EOLhyphen"/>fied, then have we cauſe to rejoice.</hi>
+               </head>
+               <p>Theſe are great Bleſſings and Deliverances; but let me tell you, if they be not ſanctified, they will be great Plagues to us, therefore rejoice in them that God would ſanctifie them to you, as to lengthen out the Goſpel-Liberty, that Sinners who are ſtrangers to God, may be brought home to God, that God may ſmile upon us, that God may pardon our Sins; if
+<pb n="11" facs="tcp:34572:6"/>
+this be, then you may joy and rejoice, and that abun<g ref="char:EOLhyphen"/>dantly, exceſs of joy is forbid, but herein we cannot be exceſs in our rejoicing. If <hi>your names are written in heaven,</hi> you have cauſe to rejoice in God that you are freed from thoſe ſnares and temptations that might hinder you in the Ioy of your Salvation; and if you are as yet ſtrangers unto God, you have cauſe to rejoice in God for this temporal Deliverance for the hopes you have of God's continuing the Goſ<g ref="char:EOLhyphen"/>pel, for the hopes you have of the means that you may be brought home to God, otherwiſe you are not to meddle with this Ioy; for it is true, you are delivered from Papiſts and their bloody deſigns, but let me tell you, if you are not brought home to God, you are yet brought into Slavery, the ſlavery of the Devil, and are dropping into Hell.</p>
+               <p>Let all rejoice primarily, not in this meerly, as it is an outward means of deliverance, but as it may be a means of Repentance, and of bringing the Sin<g ref="char:EOLhyphen"/>ner home unto God, as this outward means may be ſanctified, otherwiſe I know not what cauſe you have to rejoice.</p>
+               <p>Let us labour to get our Hearts into ſuch a frame as to joy and rejoice on account of this temporal de<g ref="char:EOLhyphen"/>liverance. Now I ſhall ſhew you in four conſidera<g ref="char:EOLhyphen"/>tions the foundation of your joy, on the account of this our begun deliverance.</p>
+               <p n="1">1. Conſider what Evils this Providence hath de<g ref="char:EOLhyphen"/>livered us from; it hath delivered this Nation from Popery and Slavery; if God had not delive<g ref="char:EOLhyphen"/>red
+<pb n="12" facs="tcp:34572:7"/>
+us from Popery and Slavery, (both which co<g ref="char:EOLhyphen"/>ming in upon us like a Corent) if God had not pre<g ref="char:EOLhyphen"/>vented it, we could not have eſcaped.</p>
+               <p n="1">1. God hath hereby delivered us from Popery.</p>
+               <p>Oh what a dreadful dangerous thing is Popery! It is that Religion which doth teach men to keep no Faith; it is a Religion which teacheth men to wor<g ref="char:EOLhyphen"/>ſhip Stocks and Stones, and that on penalties too: Oh what a dreadful damning thing is Popery! that they may be Converts, they will cut your throats, ſo that it is not your Eſtates will ſerve them, but they would have your Lives too.</p>
+               <p n="2">2. God hath hereby delivered us from Slavery too, even from ſerving an Idol: If God had not delivered us thus; then what would have become of us and our Children? Could you be content to have your Children brought up to fall down to a Crucifix, and to worſhip a Breaden God, to the ruine of their own ſouls; certainly, if any perſons were ever under ſuch a Character as in <hi>2 Theſſ. 2. 11, 12.</hi> it muſt be Papiſts, <hi>And for this cauſe God ſhall ſend them ſtrong deluſions, that they ſhould believe a Lye; That they all might be damned who believed not the truth, but had pleaſure in unrighteouſneſs.</hi> Oh the tyranny we are in part delivered from! we are delivered from their infringing upon thoſe Im<g ref="char:EOLhyphen"/>mu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ities and Priviledges of our Forefathers, which was from our Forefathers care, and to their great Coſt, that we might not be brought up into Popiſh Slavery.</p>
+               <pb n="13" facs="tcp:34572:7"/>
+               <p n="2">2. Another foundation of joy and rejoicing for this begun Deliverance, is the time when God thus interpoſed between us and our danger, it was at the time when we were e'en ripe for our deſtruction In<g ref="char:EOLhyphen"/>deed we do not know yet what our danger was: Oh had not God juſt at that very time interpoſed ſo ſea<g ref="char:EOLhyphen"/>ſonably, when the Knife was juſt at our Throats, in what a ſad condition had we béen in at this day, but the Lord was ſeen in the Mount.</p>
+               <p n="3">3. Conſider the means God did make uſe of; this is a Foundation of our joy and rejoicing, that God ſhould put it into the Heart of a ſtranger, even of a Foreign Prince, and that God ſhould Spirit him for ſuch a Work, and put reſolutions and courage into him to run the hazard of his life, and ſhould make him of ſuch a publick ſpirit, which many Engliſh-men have loſt; that he ſhould come from that plenty, that ſplendour he was in, to bring about this our begun Deliverance.</p>
+               <p n="4">4. This ſhould raiſe our hearts to rejoice from the manner of this begun Deliverance, that it was ſo ſuddenly, ſpeedily, &amp; in ſo ſhort a time: Indeed God hath ſaid, <hi>As the Birds flying, ſo will I ſave Jeru<g ref="char:EOLhyphen"/>ſalem.</hi> That ſuch a work ſhould be done without the Effuſion of blood, whereas he might have anſwered the Prayers of his People in terrible things, as might make our hearts to quake; our ſtreets might been running with blood; our garments might been rowling in blood; &amp; when the Sword was drawn<g ref="char:punc">▪</g> it might have eaten up much fleſh, and drank up much
+<pb n="14" facs="tcp:34572:8"/>
+blood, but it pleaſed God to interpoſe all this. This might cauſe us to rejoice. I might ſuggeſt one thing more, to raiſe our hearts up to this frame: For whom was this wrought? what were we Prote<g ref="char:EOLhyphen"/>ſtants? Ay; But are we a reformed People? if not, we are for all this an undone People.</p>
+               <p n="2">2. I now come to the ſecond part of the Text; <hi>But rather rejoice, becauſe your names are written in heaven.</hi> This is a precept or direction what we ſhould chiefly rejoice in. <hi>[But rather] Rather</hi> is a Note, ſometimes ſignifies the difference or in<g ref="char:EOLhyphen"/>equality of the thing by a Figure. <hi>But rather re<g ref="char:EOLhyphen"/>joice;</hi> that is, rejoice more, let your joy be raiſed higher, let your hearts be enlarged wider, unto an higher acknowledgment of ſuch a thing: It ſhould be taken uppermoſt in all our thoughts; <hi>rejoice in nothing elſe abſolutely.</hi>
+               </p>
+               <p>If thou béeſt one who art aſſured thy name is writ<g ref="char:EOLhyphen"/>ten in Heaven, whether this temporal Salvation came or no, you have grounds of rejoicing. Here are two things before us, 1. The Object.</p>
+               <p n="1">1. What is that we are oblig'd ſo much to have in our thoughts and to have ſo much on our hearts? It is expreſſed, <hi>to have our names written in hea<g ref="char:EOLhyphen"/>ven. 2.</hi> The act or duty, with reſpect or relation un<g ref="char:EOLhyphen"/>to the Object, it is in that one word <hi>Rejoice.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="15" facs="tcp:34572:8"/>
+               <head>Doct. <hi>That a Chriſtian having evidence of his Name being written in the book of God in hea<g ref="char:EOLhyphen"/>ven, this affords him ſufficient matter for his continued joy, and rejoicing here on Earth.</hi>
+               </head>
+               <p>I ſay, if a Chriſtian have good ſatisfaction in this point, it abundantly affords him juſt and ſufficient matter for his conſtant joy and rejoicing on Earth, let matters go how they will. Sirs, whatever cir<g ref="char:EOLhyphen"/>cumſtances you may live to be under here in this world, if you have a ſatisfactory Evidence of your Names being written above, you may not only be reconciled unto, but may ſmile on every diſpenſation of Providence. There are three things lieth before me to be conſidered.</p>
+               <p n="1">1. What it is to have our Names written in Heaven; that is one great thing wants to be ex<g ref="char:EOLhyphen"/>plained.</p>
+               <p n="2">2. What thoſe Evidences are which a Chriſtian may have, that he is in that bleſſed number of ſuch whoſe Names are written in Heaven.</p>
+               <p n="3">3. On what account this affords ſuch matter of Ioy as continually to rejoice.</p>
+               <p n="1">1. What it is to have our Names written in Heaven. It is a Metaphorical Expreſſion, which alludes unto the cuſtom of City or Corporation Com<g ref="char:EOLhyphen"/>munities, where perſons who are Members of that City or Corporation, are inveſted with ſome peculiar priviledge or immunity<g ref="char:punc">▪</g> that are not common to all perſons, but only unto thoſe peculiar Corporations where they are related; unto theſe Corporations
+<pb n="16" facs="tcp:34572:9"/>
+particular Laws are proper unto them, and Frée perſons thereof have a propriety unto thoſe privi<g ref="char:EOLhyphen"/>ledges. Now theſe priviledges are recorded and regiſtred where theſe perſons may find out their Names: Thus <hi>Names are written.</hi>
+               </p>
+               <p n="1">1. There is God's opened Look, which is the revea<g ref="char:EOLhyphen"/>led Will of God in the written word of God, where<g ref="char:EOLhyphen"/>in God reveals and diſcovers unto us his will, in or<g ref="char:EOLhyphen"/>der unto our Salvation.</p>
+               <p>Oh! this is a Book God hath put into our hands to be our daily ſtudy, and bleſſed be God, who hath delivered us from a Generation of men, who would have taken this book out of our hands, ſuch who will not enter into the Kingdom themſelves, and would ſhut you out, and hinder you alſo from coming there. Let me tell you Sirs, that a Bible wou'd been a pre<g ref="char:EOLhyphen"/>cious thing in your hands, (however now you ſlight it) if God had ſuffered them to go on; but ſeeing God hath ſo priviledg'd us, as yet to continue this Book among us, let us ſtudy this Book often: There you have a diſcovery of the ſinful and miſerable condition we expoſed our ſelves to, which we have plung'd our ſelves into by our cauſeleſs Apoſtacy; and there we have a diſcovery, bleſſed be God, of that Eſtate we were reſtored to, of Life and Salvation, which God of infinite wisdom found out, and propoſed unto faln Man; and you know how you may be delivered from that woful and miſerable condition you were expoſed unto.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="sermon">
+            <pb n="17" facs="tcp:34572:9"/>
+            <head>The Subſtance of a SERMON preached the next Lords Day after the death of the Reverend Mr. <hi>John Oakes,</hi> by Mr. <hi>W. Williams,</hi> Miniſter of the Goſpel.</head>
+            <epigraph>
+               <bibl>
+                  <hi>Pſal.</hi> 39. 4.</bibl>
+               <q>Lord, make me to know my end, and the meaſure of my days, what it is, that I may know how frail I am.</q>
+            </epigraph>
+            <p>THe meaning of the words of <hi>David</hi> is this, Tho' I am convinced I'm a dying man, and am perſwaded that I ſhall not abide long here, <hi>here is no abiding place,</hi> yet do I not féel this on my heart and mind, do not anſwer and comply with theſe con<g ref="char:EOLhyphen"/>victions, I do not underſtand this truth aright, therefore Lord teach me; let it come with ſuch light and power on my mind, to influence light into my mind, heart, and life; <hi>make me to know my end<g ref="char:punc">▪</g>
+               </hi> clear up this truth to me, <hi>that I may know how frail I am.</hi>
+            </p>
+            <div type="part">
+               <head>Doct. <hi>That Man is frail, and that every Man ought to intreat</hi> GOD <hi>to make him to know how frail he is.</hi>
+               </head>
+               <p>Man is frail, as appears by the ſhortneſs of his daies; Man's daies are ſhort, though he ſhould live to his full Age; Man lives by Divine ſupport, he lives not by his own ſtrength. 2ly, It is evident
+<pb n="18" facs="tcp:34572:10"/>
+Man is a poor frail Creature, ſubject to be cut off in his full ſtrength; ſo ſaies <hi>Job ch. 23.</hi> one dieth in his full ſtrength, being at eaſe and quiet, very many do ſo without ſaying, I am ſick, they ſuddenly drop away, as many of you were ſpectators of an inſtance in this very Pulpit: Our breath is ſoon ſtopt, and we drop, the Thread is very ſhort that holds every man, he ſteps into his grave in the midſt of his walk, therefore mans life is compared to a vapour which ſoon empties, and is gone: Lord, teach me, as a dy<g ref="char:EOLhyphen"/>ing man, that I may be earneſt and diligent after the things by which I may honour and glorifie thée; therefore he that would obtain the honouring and glorifying of God and enjoying of him, muſt d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> theſe things by which he will be glorified: Firſt, we muſt believe in God, and we muſt repent of our ſins; we muſt be examining our ſelves, know our ſelves, we muſt live above the world, we muſt converſe with God, and be ſanctified and made pure before we can glorifie or enjoy God; therefore we ſhould pray, Lord help me as a poor dying Creature, to ſée my néed of believing <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k of repenting and ſanctifying work; Lord, teach me ſo to number my daies, as to apply them to true wisdom; Lord, help me ſo to live, that I may be alwaies ready for death: <hi>Watch ye there<g ref="char:EOLhyphen"/>fore, for ye know not when the maſter of the houſe cometh, at evening, or at midnight, or at the cock<g ref="char:EOLhyphen"/>crowing, or in the morning, leſt coming ſuddenly, he find you ſleeping;</hi> for men are very backward to know their frailty; there is no ſeaſon plainer, and yet how backward are men to learn it!</p>
+            </div>
+            <div type="part">
+               <pb n="19" facs="tcp:34572:10"/>
+               <head>Uſe of Reproof to thoſe that are ignorant of their Frailty.</head>
+               <p>Haſt thou a thorough Conviction of this? but oh how little do we live in the conſideration of this! Death is far off the thoughts of young ones; they have made a Covenant with Death and Hell, but their Covenant ſhall not ſtand: Yt young ones, how many are dead younger than you, and ſome of the ſame age! and might not that have been you? doth not every diſtemper tell you how frail you are, and may be ſoon ſnatched away? How many diſtempers might have béen your death, had not God ſealed your Deliverance? and yet you know not how ſoon you may be called away, to give an account of your ſte<g ref="char:EOLhyphen"/>wardſhip. O how attentive would carry one of us be unto this Sermon, did we believe it would be our laſt Sermon!</p>
+               <p>The next ſort of perſons this reproves, is World<g ref="char:EOLhyphen"/>lings, who lay out their ſtrength and time only in preſent things, which are not worth the looking af<g ref="char:EOLhyphen"/>ter. Oh, let me urge this upon you: Firſt, Conſi<g ref="char:EOLhyphen"/>der how ſoon your breath is gone, and you come to nothing; you who pleaſe your ſelves in vain f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ncies<g ref="char:punc">▪</g> and think, if you may be rich, your Riches may laſt, oh conſider, all you have or deſire can do no good wh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Death comes: Conſider, Heaven will be worth all you can do for it in ſo little a time as this Life is; none can ſay their labour is loſt that they laid out for Heavens Glory.</p>
+               <p>
+                  <pb n="20" facs="tcp:34572:11"/>Again, You who were careleſs Chriſtians, even you will repent that you were no wiſer when you come to die; you careleſs negligent Chriſtians, when you come to die, you will cry out, Oh that I had béen more circumſpect in my waies and walking! Oh that I had made Religion my buſineſs! oh that ſuch and ſuch a day had been better ſpent! oh that ſuch and ſuch a ſeaſon had been better improved! Such wiſhes you will have at death: And, Why will you not be as wiſe now as at death? Conſider that the eſtate of your Souls will afflict you when you come to die under your neglect.</p>
+            </div>
+            <div type="part">
+               <head>2. Vſe, <hi>by way of Exhortation.</hi>
+               </head>
+               <p>And I beſéech every one of you to beg of God to make you know how frail you are; be earneſt with God, that he would make you know it; let every one go home under a thorough Conviction of it; I am a poor fading Flower, periſhing Duſt, yea, a Bubble. And reaſon thus with thy ſelf; Have I imployed my time to its proper ſence, for to learn this Leſſon, and to live it? I may die ſoon, therefore live alwaies on your watch, do, and do what you would be conten<g ref="char:EOLhyphen"/>ted to do and be when you come to die, if Death ſhould ſeize on you ſuddenly: Now think how few your daies may be, and how ſoon they may be gone, and that I may never have time to receive or do good: Oh labour to know your own frailty.</p>
+               <p>Sirs, I am willing to take the advantage of the awful Providence which was on this Congregation, very lately, on the ſudden departure of your Miniſter Mr. <hi>John Oakes.</hi>
+               </p>
+               <p>
+                  <pb n="21" facs="tcp:34572:11"/>Certainly this I may ſay of him, That few were fitter to die ſuddenly than he was, and no man could deſire to die in a better Work; no Miniſter who died ſuddenly, could die in a better Imployment than he did; no Miniſter could die fitter than he; all who was ſeeing him ſo ſuddenly ſtricken by death, in the Pulpit, could not but perceive him in the view of Eternity, and that very Text he was at his depar<g ref="char:EOLhyphen"/>ture upon, tells you of the great Rejoicing he was under, the words are theſe, <hi>rejoice rather be<g ref="char:EOLhyphen"/>cauſe your Names are written in Heaven:</hi> This ought to have refreſhed your minds, he was preſſing you to labour after this ſubject of Ioy: He was of an acute temper, not of a moroſs ſpirit, but of an even meek ſpirit: He could not, I ſay, deſire to die<g ref="char:punc">▪</g> a better paſture, he in his Work with his God; and indeed many Divines deſire to die in ſuch a paſture to be found in their Lord's Work when he calls for them: He was ſtruck with death in his work in this place, in this very Pulpit; and you who often and uſually heard him calling on you to cloſe with Chriſt, to leave your ſins, and to turn unto God, and be converted; but as to this day, all of you have not hearkened to your Miniſters calls and entreaties, in the Name of his Lord, but you are ſtill in an uncon<g ref="char:EOLhyphen"/>verted eſtate; Will you believe now theſe words to be his laſt and dying words unto you? You cannot hear me any more; you will hear me to declare the Truths of God no more; you can hear me no more to urge you to do your duty; you are as like to die,
+<pb n="22" facs="tcp:34572:12"/>
+and may die ſuddenly as I, you may provoke God to cut you off as ſuddenly as I am; you may provoke God by your Sins to cut you off as I am, by your provocations of and rebellions againſt God.</p>
+               <p>Sirs, your Miniſter is gone, have you gotten all the good you ſhould have gotten? God hath cut him off without his taking his leave of you. Oh there<g ref="char:EOLhyphen"/>fore labour to reflect on what ye have done; ye were often under his Miniſtry, and yet are unconverted, and were ſpectacles of this ſad and ſudden ſtroke; conſider with your ſelves what ye have done: Oh, what have I done to contribute to my Miniſter's death? was he not thus ſtricken ſpeechleſs for your Rebellion againſt his calls; O Lord, what have I done? Haſt thou no hand in thy Miniſters death, by your unfruitfulneſs under his Miniſtry? the thoughts of your Miniſters death is matter of bewai<g ref="char:EOLhyphen"/>ling, sſpeciaſly to you that do know the eſtate of your Souls are concerned in it: Howe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er, I beg this of you, who ſtood and beheld this ſad ſpectacle, of the ſud<g ref="char:EOLhyphen"/>den departure of your Paſtor, never to let the ſight go out of your minds.</p>
+               <p>Oh, how ought I to die, and be in a readineſs to be diſſolved! and, how ought I to pray, and never to ſet the thoughts of death out of my mind! how ought I to pray, and to be earneſt with God, that I may die in my Work, as this Miniſter did!</p>
+            </div>
+         </div>
+         <div type="prayer">
+            <pb facs="tcp:34572:12"/>
+            <head>The Dying Miniſters laſt Prayer.</head>
+            <p>O Moſt Gracious and everlaſting Lord God, whoſe mercy endures for ever, whoſe bleſſ<g ref="char:EOLhyphen"/>ings have cheriſhed me even from my cradle to this very moment of death, that now am lauching forth into the ocean of eternity; be pleaſed to aſſiſt me in my dark paſſage through which I muſt go, before I can come to enjoy the bleſſedneſs of thy preſence. Into thy hands O Lord, I recom<g ref="char:EOLhyphen"/>mend my dear and immortal Soul, ranſomed by the blood of thy Son, from the lake of bitterneſs; in and through whom I expect to be made eternal<g ref="char:EOLhyphen"/>ly happy, &amp; a coheir with the Saints and Angels: For his ſake I humbly beg the pardon of all my tranſgreſſions, hoping to live with thee for ever in thine everlaſting Kingdom of Glory. Lord hear my Prayers. and grant my Petition for his ſake in whom thou art well pleaſed; to whom with thee and thine ever bleſſed Spirit. Be all honour, glory and praiſe, <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="prayer">
+            <pb facs="tcp:34572:13"/>
+            <head>A Prayer for his Moſt excellent Majeſty King <hi>WILLIAM.</hi>
+            </head>
+            <p>ALmighty God, who in times of Trouble, and Danger, doſt raiſe up Deliverers of thy peo<g ref="char:EOLhyphen"/>ple, and ſilleſt their hearts with zeal for thy Ser<g ref="char:EOLhyphen"/>vice, We beſeech Thee to bleſs His Majeſty King <hi>William,</hi> whom thou haſt ſent to be the Defender of our Laws, and Religion; Protect his Perſon, ſtrengthen his Hands, let thy holy Fear evermore Rule in his Heart; that, having Thee only before his Eyes, he may in all things ſeek thy Honour and Glory, and ſtudy to Unite this divided Na<g ref="char:EOLhyphen"/>tion, and eſtabliſh it upon the ſure Foundations of Mercy and Truth, Righteouſneſs and Peace. This we beg for Jeſus Chriſt his ſake, our only Lord and Saviour, <hi>Amen.</hi>
+            </p>
+            <p>
+               <figure>
+                  <figDesc>minister preaching from pulpit to a group of people</figDesc>
+               </figure>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>With Allowance.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </back>
+   </text>
+</TEI>
